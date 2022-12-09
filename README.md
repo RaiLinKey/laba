@@ -6,3 +6,5 @@ Tsest code:
 ```
 code
 ```
+
+New text for education
